@@ -13,7 +13,7 @@ echo "apache       ALL=(ALL)       NOPASSWD: ALL" >> /etc/sudoers
 Step 3 - pull the docker image from Docker hub
 // The passwd for root user is 'q' for this image
 yum install docker-ce
-docker pull 
+docker pull pankaj1234/firefox:latest    Or   docker pull pankaj1234/vlc:latest
 
 Step 4 - Place the files.
 

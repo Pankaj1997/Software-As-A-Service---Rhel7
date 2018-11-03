@@ -1,2 +1,1 @@
-# lwproject
-An Automated web-interface to create your own cloud and Hadoop Cluster.
+#Software-As-A-Service--Rhel7
